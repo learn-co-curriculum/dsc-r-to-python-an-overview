@@ -1,5 +1,10 @@
 # R to Python: An Overview  
 
+* [ ] Add in Code and Data
+* [ ] Edit Text
+* [ ] Intergrate Rosetta Stone
+* [ ] Add more to Rosetta Stone
+
 ## Introduction 
 
 Over the next nine lessons, you will learn about the programming language R!
