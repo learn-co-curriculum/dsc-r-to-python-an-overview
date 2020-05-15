@@ -4,6 +4,7 @@
 * [ ] Edit Text
 * [ ] Intergrate Rosetta Stone
 * [ ] Add more to Rosetta Stone
+* [ ] Put Lesson Goals at Front 
 
 ## Introduction 
 
@@ -100,15 +101,9 @@ We still use the octothorpe (#) for comments, we still import in other software,
 Though there are a few differences, we don't assign objects with `=` but rather use `<-`.
 There's also a funny `%>%` symbol in there.
 
-In the next few lessons, we'll pick this apart a bit more and get you to the point where you understand it more completely.  
-
-
-Hopefully the above example made you feel that R and Python might not be that different in some ways and this will be a lot easier than you thought. 
-Over the next few lessons, we'll explore this in more depth
-
 ## A Bad Rosetta Stone
 
-Here we give a list of packages to get you thinking about similarities.
+We'll end our intro here with a list of packages to get you thinking about similarities between Python and R. 
 Now just like there is not just ONE way to deal with data frames in Python, this is also not true for R.
 Eventually looking at this table should really upset you, so maybe revisit this in a few months if you keep up with your R programming. 
 
@@ -121,4 +116,8 @@ Here include table of "translations":
 |matplotlib/seaborn		|ggplot2		|
 |import `packagename`		|library(pacakgename)
 
+In the next few lessons, we'll pick this apart a bit more and get you to the point where you understand it more completely.  
+
+Hopefully the above example made you feel that R and Python might not be that different in some ways and this will be a lot easier than you thought. 
+Over the next few lessons, we'll explore this in more depth
 
