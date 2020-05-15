@@ -47,7 +47,7 @@ Let's say you are doing a bit of side work for a local restaurant and are curiou
 We're going to use the `tips.csv` dataset to do this, which you might be familiar with from when you learned about [seaborn](). 
 What would this worflow look like as you do it now?
 
-You might log onto your computer and fire up your *Jupyter Notebook* from the command line, select that you want to make a *Python 3* notebook to start your analysis.
+You might log onto your computer and fire up your **Jupyter Notebook** from the command line, select that you want to make a **Python 3** notebook to start your analysis.
 You import in the usual suspects:
 
 ```{python}
@@ -84,9 +84,9 @@ Again, before running any models, you group by the day of the week, grab an aver
 
 ```{r}
 # Code here
-``
+```
 
-* IMG of Plot `
+* IMG of Plot 
 
 
 Now you don't have to totally understand quite right now what every part of what that code is doing, but I'd be you could have a good guess. 
