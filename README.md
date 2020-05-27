@@ -35,7 +35,7 @@ Having now been through all of the Flatiron School Data Science program, you now
 Because of this, these next lessons on R are going to rely a lot on your knowledge of Python to communicate concepts that may have taken you a lot longer to get back at the start of your journey. 
 
 We're going to use your knowledge of Python to buttress your learning of R.
-Eventually you'll throw away this scaffolding and hopefully not say things to yourself like "ggplot2 is the seborn of R", because at the end of the day these packages are quite different, have different histories, and should not be directly compared.
+Eventually you'll throw away this scaffolding and hopefully not say things to yourself like "ggplot2 is the seaborn of R", because at the end of the day these packages are quite different, have different histories, and should not be directly compared.
 
 What's important here is to leverage your strengths as you learn something new, just like you will when you land your first job.
 Think of these next few lessons to notice how you can learn something "totally new" a lot more easily when it is based on what you already know. 
