@@ -2,20 +2,20 @@
 
 ## Introduction 
 
-Over the next nine lessons, you will learn about the programming language R!
+Over the next lessons, you will learn about the programming language R!
 
 ## Objectives
 
-By the end of this lesson you will be able to 
+You will be able to:
 
-* [ ] Explain why a data scientist might want to know both R and Python 
-* [ ] List common misconceptions about all things R and Python
-* [ ] Identify parallel packages in a data scientist's workflow between R and Python
+* Explain why a data scientist might want to know both R and Python 
+* List common misconceptions about all things R and Python
+* Identify parallel packages in a data scientist's workflow between R and Python
 
 ## Why Not Both?
 
 Just like a plumber wouldn't be expected to fix a sink with only a hammer, a data scientist shouldn't be expected to solve every problem with only one tool.
-For at least the past 15 weeks, you've refined your knowledge of the Python programming language but probably have heard that there is another language that data scientists often use called R.
+While you were in Flatiron School's program, you've refined your knowledge of the Python programming language but probably have heard that there is another language that data scientists often use called R.
 
 This might seem obvious to have to state, but R is not Python and was developed by different people and for different reasons.
 For that reason, R is going to do things a lot better than Python with some tasks and might not be as good at others.
@@ -29,7 +29,7 @@ In the academic community, it's becoming common practice for new published paper
 
 Since R has been optimized for working with data, there has also been an explosion of work in the past decade that has not only made R a very fast language when it runs on data, but initiatives such as the [tidyverse](https://www.tidyverse.org/), which we will learn about, strive to make code that is fast to read and to write.
 
-## Leading with Your Strengths
+## Leading with Your Strengths
 
 Having now been through all of the Flatiron School Data Science program, you now know a lot more about programming that you did back in your first week.
 Because of this, these next lessons on R are going to rely a lot on your knowledge of Python to communicate concepts that may have taken you a lot longer to get back at the start of your journey. 
@@ -129,8 +129,10 @@ Here include table of "translations":
 |matplotlib/seaborn		|ggplot2		|
 |import `packagename`		|library(packagename)
 
+## Summary 
+
 In the next few lessons, we'll pick this apart a bit more and get you to the point where you understand it more completely.  
 
 Hopefully the above example made you feel that R and Python might not be that different in some ways and this will be a lot easier than you thought. 
-Over the next few lessons, we'll explore this in more depth
+Over the next few lessons, we'll explore this in more depth.
 
