@@ -106,7 +106,7 @@ ggsave("img/ggplot_example.png")
 
 ```
 
-![ggplot2 recreation](img/ggplot_example)
+![Seaborn Example Recreated with ggplot2](img/ggplot_example.png)
 
 Now you don't have to totally understand quite right now what every part of what that code is doing, but I'd be you could have a good guess. 
 You'll notice some things are the same.
