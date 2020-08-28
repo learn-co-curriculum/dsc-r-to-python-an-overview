@@ -64,7 +64,7 @@ sns.relplot(x="total_bill", y="tip", col="time",
             data=tips);
 ```
 
-![Image from Seaborn Tutorial](https://raw.githubusercontent.com/learn-co-curriculum/dsc-r-to-python-an-overview/master/img/seaborn_example.png) 
+![Image from Seaborn Tutorial](https://raw.githubusercontent.com/learn-co-curriculum/dsc-r-to-python-an-overview/master/seaborn_example.png) 
 
 What would this process look like if you did it in R?
 
@@ -104,7 +104,7 @@ ggsave("img/ggplot_example.png")
 
 ```
 
-![Seaborn Example Recreated with ggplot2](https://raw.githubusercontent.com/learn-co-curriculum/dsc-r-to-python-an-overview/master/img/ggplot_example.png)
+![Seaborn Example Recreated with ggplot2](https://raw.githubusercontent.com/learn-co-curriculum/dsc-r-to-python-an-overview/master/ggplot_example.png)
 
 Now you don't have to totally understand quite right now what every part of what that code is doing, but I'd be you could have a good guess. You'll notice some things are the same. We still use the octothorpe (#) for comments, we still import in other software, and tell the computer what we want it to do in order! 
 
